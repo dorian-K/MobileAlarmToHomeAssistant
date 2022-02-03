@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationToHomeassistant</string>
+    <string name="home_assistant_url">Home Assistant Url</string>
+    <string name="set_notification_access">Set Notification Access</string>
+    <string name="home_assistant_api_secret">Home Assistant API Secret</string>
+    <string name="update_data">Update Data</string>
+    <string name="attribute_name">Attribute Name</string>
+    <string name="webhook_id">Webhook id</string>
+    <string name="test_webhook">Test Webhook</string>
+</resources>
